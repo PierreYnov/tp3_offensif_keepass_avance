@@ -9,8 +9,8 @@
 # Sommaire 
 
 - [Le Lab](#le-lab)
-- [Découverte et utilisation de sshfs]()
-- [Découverte et utilisation de syncthing]()
+- [Découverte et utilisation de sshfs](#d%C3%A9couverte-et-utilisation-de-sshfs)
+- [Découverte et utilisation de syncthing](https://github.com/PierreYnov/tp3_offensif_keepass_avance#d%C3%A9couverte-et-utilisation-de-syncthing)
 
 
 
